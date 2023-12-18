@@ -1,0 +1,12 @@
+.maxWidth {
+  width: 100%;
+}
+
+.CardTask {
+  padding: 1rem
+}
+
+.noMarginTopAndBottom {
+  margin-bottom: 0;
+  margin-top: 0;
+}

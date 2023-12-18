@@ -1,0 +1,14 @@
+.displayFlex {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.Board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(22rem * 4 + 3rem);
+  margin: 0 auto;
+}

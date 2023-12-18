@@ -1,0 +1,27 @@
+.TaskCard {
+  width: 22rem;
+  height: 15rem;
+}
+
+.CardFooter {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.flexStart {
+  justify-content: flex-start;
+}
+
+.overflowElipsis {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.flexRow {
+  flex-direction: row !important;
+}
+
+.cursorPointer {
+  cursor: pointer;
+}
